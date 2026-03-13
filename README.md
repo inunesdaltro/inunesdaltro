@@ -25,8 +25,7 @@ Aqui compartilho projetos, estudos e experiências voltadas para **engenharia ap
 ---
 
 ## Spotify 🎵
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bels.sleb)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bels.sleb&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ff0040&interchange=true&profanity=false&bar_color=000000&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=bels.sleb&redirect=true)
 
 ## Estatísticas do GitHub
 
