@@ -26,7 +26,7 @@ Aqui compartilho projetos, estudos e experiências voltadas para **engenharia ap
 
 ## Spotify 🎵
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bels.sleb)
 
 ## Estatísticas do GitHub
 
