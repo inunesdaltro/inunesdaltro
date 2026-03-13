@@ -32,6 +32,7 @@ Aqui compartilho projetos, estudos e experiências voltadas para **engenharia ap
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inunesdaltro&layout=compact&hide_border=true)
 
+https://github-profile-trophy-kannan.vercel.app/?username=inunesdaltro&theme=radical
 ---
 
 
